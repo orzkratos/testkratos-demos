@@ -12,7 +12,7 @@ require (
 	github.com/yyle88/osexistpath v0.0.17
 	github.com/yyle88/rese v0.0.11
 	github.com/yyle88/runpath v1.0.24
-	github.com/yyle88/zaplog v0.0.26
+	github.com/yyle88/zaplog v0.0.27
 	go.uber.org/zap v1.27.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20251029180050-ab9386a59fda
 	google.golang.org/grpc v1.76.0
